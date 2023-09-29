@@ -53,7 +53,7 @@ if combined_choice == [0, 0]:
   print("Draw")
 elif combined_choice == [0, 1]:
   print("You lose")
-if combined_choice == [0, 2]:
+elif combined_choice == [0, 2]:
   print("You Win!")
 elif combined_choice == [1, 0]:
   print("You win!")
